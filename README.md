@@ -55,7 +55,7 @@ Nimbus ships **about 95 first-party MCP connectors** (in [nimbus-mcp-servers](ht
 
 Shareable, signed, LLM-free declarative tool-call workflows (`.nimbus-recipe.yaml`), verifiable with `nimbus verify-share --replay`.
 
-- Create one with `nimbus share --as-recipe`. A public gallery is not planned (the `nimbus-recipes` scaffold was retired on 2026-11-12), so this list is where recipes are collected.
+- Create one with `nimbus share create <session-id> --as-recipe`. A public gallery is not planned (the `nimbus-recipes` scaffold was retired on 2026-11-12), so this list is where recipes are collected.
 - *Your recipe here — open a PR!*
 
 ## Extensions & Registry
